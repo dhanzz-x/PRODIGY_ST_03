@@ -42,3 +42,13 @@ https://www.saucedemo.com/
 
 All five automated login test cases were successfully executed using Selenium WebDriver. The SauceDemo login functionality behaved as expected for valid, invalid, empty-field, and locked-out user scenarios.
 
+## Test Execution Evidence
+
+Screenshots of the automated test execution are available in the `screenshots` folder.
+
+- TC01 – Valid Login
+- TC02 – Invalid Login
+- TC03 – Empty Username
+- TC04 – Empty Password
+- TC05 – Locked-out User
+
